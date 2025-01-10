@@ -1,0 +1,220 @@
+{
+    "ground_truth": [
+        {
+            "unknown-text": "unknown00001.txt",
+            "true-author": "candidate00001"
+        },
+        {
+            "unknown-text": "unknown00002.txt",
+            "true-author": "candidate00005"
+        },
+        {
+            "unknown-text": "unknown00003.txt",
+            "true-author": "candidate00003"
+        },
+        {
+            "unknown-text": "unknown00004.txt",
+            "true-author": "<UNK>"
+        },
+        {
+            "unknown-text": "unknown00005.txt",
+            "true-author": "<UNK>"
+        },
+        {
+            "unknown-text": "unknown00006.txt",
+            "true-author": "candidate00006"
+        },
+        {
+            "unknown-text": "unknown00007.txt",
+            "true-author": "candidate00009"
+        },
+        {
+            "unknown-text": "unknown00008.txt",
+            "true-author": "candidate00009"
+        },
+        {
+            "unknown-text": "unknown00009.txt",
+            "true-author": "candidate00009"
+        },
+        {
+            "unknown-text": "unknown00010.txt",
+            "true-author": "<UNK>"
+        },
+        {
+            "unknown-text": "unknown00011.txt",
+            "true-author": "candidate00001"
+        },
+        {
+            "unknown-text": "unknown00012.txt",
+            "true-author": "<UNK>"
+        },
+        {
+            "unknown-text": "unknown00013.txt",
+            "true-author": "candidate00004"
+        },
+        {
+            "unknown-text": "unknown00014.txt",
+            "true-author": "<UNK>"
+        },
+        {
+            "unknown-text": "unknown00015.txt",
+            "true-author": "candidate00005"
+        },
+        {
+            "unknown-text": "unknown00016.txt",
+            "true-author": "<UNK>"
+        },
+        {
+            "unknown-text": "unknown00017.txt",
+            "true-author": "candidate00005"
+        },
+        {
+            "unknown-text": "unknown00018.txt",
+            "true-author": "candidate00005"
+        },
+        {
+            "unknown-text": "unknown00019.txt",
+            "true-author": "candidate00009"
+        },
+        {
+            "unknown-text": "unknown00020.txt",
+            "true-author": "<UNK>"
+        },
+        {
+            "unknown-text": "unknown00021.txt",
+            "true-author": "<UNK>"
+        },
+        {
+            "unknown-text": "unknown00022.txt",
+            "true-author": "candidate00009"
+        },
+        {
+            "unknown-text": "unknown00023.txt",
+            "true-author": "<UNK>"
+        },
+        {
+            "unknown-text": "unknown00024.txt",
+            "true-author": "candidate00001"
+        },
+        {
+            "unknown-text": "unknown00025.txt",
+            "true-author": "<UNK>"
+        },
+        {
+            "unknown-text": "unknown00026.txt",
+            "true-author": "candidate00008"
+        },
+        {
+            "unknown-text": "unknown00027.txt",
+            "true-author": "<UNK>"
+        },
+        {
+            "unknown-text": "unknown00028.txt",
+            "true-author": "candidate00006"
+        },
+        {
+            "unknown-text": "unknown00029.txt",
+            "true-author": "<UNK>"
+        },
+        {
+            "unknown-text": "unknown00030.txt",
+            "true-author": "<UNK>"
+        },
+        {
+            "unknown-text": "unknown00031.txt",
+            "true-author": "candidate00009"
+        },
+        {
+            "unknown-text": "unknown00032.txt",
+            "true-author": "candidate00003"
+        },
+        {
+            "unknown-text": "unknown00033.txt",
+            "true-author": "<UNK>"
+        },
+        {
+            "unknown-text": "unknown00034.txt",
+            "true-author": "<UNK>"
+        },
+        {
+            "unknown-text": "unknown00035.txt",
+            "true-author": "candidate00006"
+        },
+        {
+            "unknown-text": "unknown00036.txt",
+            "true-author": "candidate00007"
+        },
+        {
+            "unknown-text": "unknown00037.txt",
+            "true-author": "candidate00009"
+        },
+        {
+            "unknown-text": "unknown00038.txt",
+            "true-author": "candidate00005"
+        },
+        {
+            "unknown-text": "unknown00039.txt",
+            "true-author": "<UNK>"
+        },
+        {
+            "unknown-text": "unknown00040.txt",
+            "true-author": "<UNK>"
+        },
+        {
+            "unknown-text": "unknown00041.txt",
+            "true-author": "<UNK>"
+        },
+        {
+            "unknown-text": "unknown00042.txt",
+            "true-author": "candidate00006"
+        },
+        {
+            "unknown-text": "unknown00043.txt",
+            "true-author": "<UNK>"
+        },
+        {
+            "unknown-text": "unknown00044.txt",
+            "true-author": "candidate00003"
+        },
+        {
+            "unknown-text": "unknown00045.txt",
+            "true-author": "<UNK>"
+        },
+        {
+            "unknown-text": "unknown00046.txt",
+            "true-author": "<UNK>"
+        },
+        {
+            "unknown-text": "unknown00047.txt",
+            "true-author": "<UNK>"
+        },
+        {
+            "unknown-text": "unknown00048.txt",
+            "true-author": "<UNK>"
+        },
+        {
+            "unknown-text": "unknown00049.txt",
+            "true-author": "<UNK>"
+        },
+        {
+            "unknown-text": "unknown00050.txt",
+            "true-author": "<UNK>"
+        },
+        {
+            "unknown-text": "unknown00051.txt",
+            "true-author": "<UNK>"
+        },
+        {
+            "unknown-text": "unknown00052.txt",
+            "true-author": "candidate00005"
+        },
+        {
+            "unknown-text": "unknown00053.txt",
+            "true-author": "<UNK>"
+        },
+        {
+            "unknown-text": "unknown00054.txt",
+            "true-author": "candidate00002"
+        }
+    ]
+}

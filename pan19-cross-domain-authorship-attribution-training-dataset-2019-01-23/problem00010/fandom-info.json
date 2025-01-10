@@ -1,0 +1,317 @@
+[
+    {
+        "true-author": "candidate00001",
+        "known-text": "known00001",
+        "fandom": "fandom01578"
+    },
+    {
+        "true-author": "candidate00001",
+        "known-text": "known00002",
+        "fandom": "fandom01578"
+    },
+    {
+        "true-author": "candidate00001",
+        "known-text": "known00003",
+        "fandom": "fandom01578"
+    },
+    {
+        "true-author": "candidate00001",
+        "known-text": "known00004",
+        "fandom": "fandom01578"
+    },
+    {
+        "true-author": "candidate00001",
+        "known-text": "known00005",
+        "fandom": "fandom01578"
+    },
+    {
+        "true-author": "candidate00001",
+        "known-text": "known00006",
+        "fandom": "fandom01578"
+    },
+    {
+        "true-author": "candidate00001",
+        "known-text": "known00007",
+        "fandom": "fandom01578"
+    },
+    {
+        "true-author": "candidate00002",
+        "known-text": "known00001",
+        "fandom": "fandom00042"
+    },
+    {
+        "true-author": "candidate00002",
+        "known-text": "known00002",
+        "fandom": "fandom01645"
+    },
+    {
+        "true-author": "candidate00002",
+        "known-text": "known00003",
+        "fandom": "fandom00282"
+    },
+    {
+        "true-author": "candidate00002",
+        "known-text": "known00004",
+        "fandom": "fandom00282"
+    },
+    {
+        "true-author": "candidate00002",
+        "known-text": "known00005",
+        "fandom": "fandom00042"
+    },
+    {
+        "true-author": "candidate00002",
+        "known-text": "known00006",
+        "fandom": "fandom00042"
+    },
+    {
+        "true-author": "candidate00002",
+        "known-text": "known00007",
+        "fandom": "fandom01652"
+    },
+    {
+        "true-author": "candidate00003",
+        "known-text": "known00001",
+        "fandom": "fandom00285"
+    },
+    {
+        "true-author": "candidate00003",
+        "known-text": "known00002",
+        "fandom": "fandom01943"
+    },
+    {
+        "true-author": "candidate00003",
+        "known-text": "known00003",
+        "fandom": "fandom01979"
+    },
+    {
+        "true-author": "candidate00003",
+        "known-text": "known00004",
+        "fandom": "fandom01979"
+    },
+    {
+        "true-author": "candidate00003",
+        "known-text": "known00005",
+        "fandom": "fandom00266"
+    },
+    {
+        "true-author": "candidate00003",
+        "known-text": "known00006",
+        "fandom": "fandom01979"
+    },
+    {
+        "true-author": "candidate00003",
+        "known-text": "known00007",
+        "fandom": "fandom01979"
+    },
+    {
+        "true-author": "candidate00004",
+        "known-text": "known00001",
+        "fandom": "fandom01645"
+    },
+    {
+        "true-author": "candidate00004",
+        "known-text": "known00002",
+        "fandom": "fandom00757"
+    },
+    {
+        "true-author": "candidate00004",
+        "known-text": "known00003",
+        "fandom": "fandom02050"
+    },
+    {
+        "true-author": "candidate00004",
+        "known-text": "known00004",
+        "fandom": "fandom00266"
+    },
+    {
+        "true-author": "candidate00004",
+        "known-text": "known00005",
+        "fandom": "fandom02037"
+    },
+    {
+        "true-author": "candidate00004",
+        "known-text": "known00006",
+        "fandom": "fandom00757"
+    },
+    {
+        "true-author": "candidate00004",
+        "known-text": "known00007",
+        "fandom": "fandom00757"
+    },
+    {
+        "true-author": "candidate00005",
+        "known-text": "known00001",
+        "fandom": "fandom00125"
+    },
+    {
+        "true-author": "candidate00005",
+        "known-text": "known00002",
+        "fandom": "fandom02131"
+    },
+    {
+        "true-author": "candidate00005",
+        "known-text": "known00003",
+        "fandom": "fandom01825"
+    },
+    {
+        "true-author": "candidate00005",
+        "known-text": "known00004",
+        "fandom": "fandom02131"
+    },
+    {
+        "true-author": "candidate00005",
+        "known-text": "known00005",
+        "fandom": "fandom00541"
+    },
+    {
+        "true-author": "candidate00005",
+        "known-text": "known00006",
+        "fandom": "fandom00125"
+    },
+    {
+        "true-author": "candidate00005",
+        "known-text": "known00007",
+        "fandom": "fandom00075"
+    },
+    {
+        "true-author": "candidate00006",
+        "known-text": "known00001",
+        "fandom": "fandom01837"
+    },
+    {
+        "true-author": "candidate00006",
+        "known-text": "known00002",
+        "fandom": "fandom02203"
+    },
+    {
+        "true-author": "candidate00006",
+        "known-text": "known00003",
+        "fandom": "fandom02203"
+    },
+    {
+        "true-author": "candidate00006",
+        "known-text": "known00004",
+        "fandom": "fandom02203"
+    },
+    {
+        "true-author": "candidate00006",
+        "known-text": "known00005",
+        "fandom": "fandom01429"
+    },
+    {
+        "true-author": "candidate00006",
+        "known-text": "known00006",
+        "fandom": "fandom02203"
+    },
+    {
+        "true-author": "candidate00006",
+        "known-text": "known00007",
+        "fandom": "fandom01645"
+    },
+    {
+        "true-author": "candidate00007",
+        "known-text": "known00001",
+        "fandom": "fandom00395"
+    },
+    {
+        "true-author": "candidate00007",
+        "known-text": "known00002",
+        "fandom": "fandom01890"
+    },
+    {
+        "true-author": "candidate00007",
+        "known-text": "known00003",
+        "fandom": "fandom00298"
+    },
+    {
+        "true-author": "candidate00007",
+        "known-text": "known00004",
+        "fandom": "fandom01328"
+    },
+    {
+        "true-author": "candidate00007",
+        "known-text": "known00005",
+        "fandom": "fandom01875"
+    },
+    {
+        "true-author": "candidate00007",
+        "known-text": "known00006",
+        "fandom": "fandom01875"
+    },
+    {
+        "true-author": "candidate00007",
+        "known-text": "known00007",
+        "fandom": "fandom01911"
+    },
+    {
+        "true-author": "candidate00008",
+        "known-text": "known00001",
+        "fandom": "fandom01261"
+    },
+    {
+        "true-author": "candidate00008",
+        "known-text": "known00002",
+        "fandom": "fandom02107"
+    },
+    {
+        "true-author": "candidate00008",
+        "known-text": "known00003",
+        "fandom": "fandom00043"
+    },
+    {
+        "true-author": "candidate00008",
+        "known-text": "known00004",
+        "fandom": "fandom02102"
+    },
+    {
+        "true-author": "candidate00008",
+        "known-text": "known00005",
+        "fandom": "fandom02111"
+    },
+    {
+        "true-author": "candidate00008",
+        "known-text": "known00006",
+        "fandom": "fandom00548"
+    },
+    {
+        "true-author": "candidate00008",
+        "known-text": "known00007",
+        "fandom": "fandom00546"
+    },
+    {
+        "true-author": "candidate00009",
+        "known-text": "known00001",
+        "fandom": "fandom00282"
+    },
+    {
+        "true-author": "candidate00009",
+        "known-text": "known00002",
+        "fandom": "fandom00471"
+    },
+    {
+        "true-author": "candidate00009",
+        "known-text": "known00003",
+        "fandom": "fandom02163"
+    },
+    {
+        "true-author": "candidate00009",
+        "known-text": "known00004",
+        "fandom": "fandom01759"
+    },
+    {
+        "true-author": "candidate00009",
+        "known-text": "known00005",
+        "fandom": "fandom02144"
+    },
+    {
+        "true-author": "candidate00009",
+        "known-text": "known00006",
+        "fandom": "fandom00980"
+    },
+    {
+        "true-author": "candidate00009",
+        "known-text": "known00007",
+        "fandom": "fandom00985"
+    }
+]

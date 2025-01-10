@@ -1,0 +1,12 @@
+[  
+   { "problem-name": "problem00001", "language": "en", "encoding": "UTF-8" },
+   { "problem-name": "problem00002", "language": "en", "encoding": "UTF-8" },
+   { "problem-name": "problem00003", "language": "fr", "encoding": "UTF-8" },
+   { "problem-name": "problem00004", "language": "fr", "encoding": "UTF-8" },
+   { "problem-name": "problem00005", "language": "it", "encoding": "UTF-8" },
+   { "problem-name": "problem00006", "language": "it", "encoding": "UTF-8" },
+   { "problem-name": "problem00007", "language": "pl", "encoding": "UTF-8" },
+   { "problem-name": "problem00008", "language": "pl", "encoding": "UTF-8" },
+   { "problem-name": "problem00009", "language": "sp", "encoding": "UTF-8" },
+   { "problem-name": "problem00010", "language": "sp", "encoding": "UTF-8" }
+]
