@@ -108,6 +108,44 @@ F1 Score: Harmonic mean of Precision and Recall.
 | XGBoost                     | 76%      | 0.63      | 0.76   | 0.68     |
 | Neural Networks (MLP)       | 78%      | 0.60      | 0.78   | 0.68     |
 
+## 🧮 Confusion Matrix Visualizations
+
+The confusion matrix is an essential tool to evaluate the performance of a model by comparing the predicted labels against the actual labels.
+
+### Visualized Confusion Matrix:
+
+The x-axis represents predicted results, and the y-axis represents the true results. Color intensity and annotations are used to provide detailed information.
+
+#### Matrix Details:
+
+- *TP (True Positives)*: Authors correctly identified.
+- *FP (False Positives)*: Authors incorrectly predicted as a match.
+- *FN (False Negatives)*: Authors not detected.
+- *TN (True Negatives)*: Correctly excluded authors.
+
+### PAN18 Confusion Matrix:
+
+
+![a0dadea7-aa92-4243-bea2-be34ff1efa1a](https://github.com/user-attachments/assets/2da47958-fc0d-4ba9-b3d4-c5b735f38c1b)
+Details:
+- *TP*: Correctly identified authors.
+- *FP*: Incorrectly predicted authors.
+- *FN*: Missed authors.
+- *TN*: Correctly excluded authors.
+
+### PAN19 Confusion Matrix:
+
+![531a60bc-11c7-4372-b2a8-7d6fa469225f](https://github.com/user-attachments/assets/3d2395db-2fa2-49b0-a875-e9de04ac2f09)
+
+Details:
+- *TP*: Correctly identified authors.
+- *FP*: Incorrectly predicted authors.
+- *FN*: Missed authors.
+- *TN*: Correctly excluded authors.
+
+### Notes:
+- The matrices give valuable insight into the model's strengths and areas for improvement, especially in distinguishing authors based on their writing style.
+
 ## 🛠️ Technologies
 
 Programming Language: Python
