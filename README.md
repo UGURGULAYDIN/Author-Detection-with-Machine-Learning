@@ -199,3 +199,26 @@ pip install -r requirements.txt
 python main.py
 ```
 Analyze the results in the generated output files.
+
+## 📬 Contact
+
+Feel free to reach out to me for any questions, feedback, or collaboration opportunities regarding the project:
+
+<table>
+  <tr style="border: none; background: none;">
+    <td width="100" style="border: none; background: none; padding: 0; margin: 0;">
+      <a href="http://www.linkedin.com/in/u%C4%9Fur-g%C3%BClaydin-9053902b6" target="_blank">
+        <img src="https://images.weserv.nl/?url=https%3A%2F%2Fmedia.licdn.com%2Fdms%2Fimage%2Fv2%2FD4D03AQGCopOawLDLxg%2Fprofile-displayphoto-scale_200_200%2FB4DZ769vlgGkAc-%2F0%2F1782326951936%3Fe%3D2147483647%26v%3Dbeta%26t%3DLY9VRQ1CkZRQ1x8AbcwHM-AutqHQzwCmlV5yjPSH8Ho&w=100&h=100&fit=cover&mask=circle" width="100" height="100" alt="Uğur Gülaydın" style="display: block; border: none;" />
+      </a>
+    </td>
+    <td style="border: none; background: none; padding-left: 20px; vertical-align: middle;">
+      <strong style="font-size: 20px;">UĞUR GÜLAYDIN</strong><br />
+      For instant communication and networking:<br />
+      👉 <a href="http://www.linkedin.com/in/u%C4%9Fur-g%C3%BClaydin-9053902b6" target="_blank" style="text-decoration: none; font-weight: bold;">Connect on LinkedIn</a>
+    </td>
+  </tr>
+</table>
+
+## 📄 License
+
+This project is licensed under the [MIT License](LICENSE).
