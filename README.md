@@ -218,7 +218,3 @@ Feel free to reach out to me for any questions, feedback, or collaboration oppor
     </td>
   </tr>
 </table>
-
-## 📄 License
-
-This project is licensed under the [MIT License](LICENSE).
